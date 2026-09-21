@@ -1,0 +1,72 @@
+﻿@{
+    ViewData["Title"] = "Inicio";
+}
+
+<div class="container mt-4">
+
+    <div class="p-5 mb-4 bg-success text-white rounded-3 shadow">
+        <div class="container-fluid py-4">
+            <h1 class="display-5 fw-bold">
+                Bienvenido a EcoStore 🌱
+            </h1>
+
+            <p class="fs-5">
+                Encuentra productos ecológicos y sostenibles
+                para un estilo de vida más responsable con el medio ambiente.
+            </p>
+
+            <a asp-controller="Productos"
+               asp-action="Index"
+               class="btn btn-light btn-lg">
+                Ver productos
+            </a>
+        </div>
+    </div>
+
+    <h2 class="text-center mb-4">¿Qué encontrarás en EcoStore?</h2>
+
+    <div class="row g-4">
+
+        <div class="col-md-4">
+            <div class="card h-100 shadow-sm">
+                <div class="card-body text-center">
+                    <h3>🌿</h3>
+                    <h5 class="card-title">Productos sostenibles</h5>
+                    <p class="card-text">
+                        Productos pensados para reducir el impacto
+                        ambiental y fomentar un consumo responsable.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card h-100 shadow-sm">
+                <div class="card-body text-center">
+                    <h3>♻️</h3>
+                    <h5 class="card-title">Consumo responsable</h5>
+                    <p class="card-text">
+                        Alternativas reutilizables y ecológicas
+                        para el hogar y el cuidado personal.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card h-100 shadow-sm">
+                <div class="card-body text-center">
+                    <h3>🛍️</h3>
+                    <h5 class="card-title">Compra fácil</h5>
+                    <p class="card-text">
+                        Explora nuestro catálogo y conoce los productos
+                        disponibles en EcoStore.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+</div>

@@ -1,0 +1,83 @@
+﻿@model List<EcoStore.Entidades.Producto>
+@{
+    var rol = Context.Session.GetString("Rol");
+}
+@{
+    ViewData["Title"] = "Productos";
+}
+
+<div class="container mt-4">
+
+    <h1 class="mb-4">EcoStore - Productos</h1>
+
+    <div class="row">
+
+        @foreach (var producto in Model)
+        {
+            <div class="col-md-4 mb-4">
+
+                <div class="card h-100 shadow-sm">
+
+                    <div class="card-body">
+
+                        <h5 class="card-title">
+                            @producto.Nombre
+                        </h5>
+
+                        <p class="card-text">
+                            @producto.Descripcion
+                        </p>
+
+                        <p>
+                            <strong>Categoría:</strong>
+                            @producto.Categoria?.Nombre
+                        </p>
+
+                        <p>
+                            <strong>Precio:</strong>
+                            S/ @producto.Precio
+                        </p>
+
+                        <p>
+                            <strong>Stock:</strong>
+                            @producto.Stock
+                        </p>
+
+                        @if (rol == "Administrador" || rol == "Ventas")
+                        {
+                            <a asp-action="Editar"
+                               asp-route-id="@producto.IdProducto"
+                               class="btn btn-primary">
+                                Editar
+                            </a>
+                        }
+
+                        @if (rol == "Administrador")
+                        {
+                            <form asp-action="Eliminar"
+                                  method="post"
+                                  style="display:inline;">
+
+                                <input type="hidden"
+                                       name="id"
+                                       value="@producto.IdProducto" />
+
+                                <button type="submit"
+                                        class="btn btn-danger"
+                                        onclick="return confirm('¿Está seguro de eliminar este producto?');">
+                                    Eliminar
+                                </button>
+
+                            </form>
+                        }
+
+                    </div>
+
+                </div>
+
+            </div>
+        }
+
+    </div>
+
+</div>
