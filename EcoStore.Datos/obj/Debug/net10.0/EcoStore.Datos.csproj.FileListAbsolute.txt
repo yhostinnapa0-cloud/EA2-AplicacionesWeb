@@ -1,0 +1,17 @@
+C:\Users\yhost\OneDrive\Documents\Visual Studio\EcoStore.Datos\bin\Debug\net10.0\EcoStore.Datos.deps.json
+C:\Users\yhost\OneDrive\Documents\Visual Studio\EcoStore.Datos\bin\Debug\net10.0\EcoStore.Datos.runtimeconfig.json
+C:\Users\yhost\OneDrive\Documents\Visual Studio\EcoStore.Datos\bin\Debug\net10.0\EcoStore.Datos.dll
+C:\Users\yhost\OneDrive\Documents\Visual Studio\EcoStore.Datos\bin\Debug\net10.0\EcoStore.Datos.pdb
+C:\Users\yhost\OneDrive\Documents\Visual Studio\EcoStore.Datos\bin\Debug\net10.0\EcoStore.Entidades.dll
+C:\Users\yhost\OneDrive\Documents\Visual Studio\EcoStore.Datos\bin\Debug\net10.0\EcoStore.Entidades.pdb
+C:\Users\yhost\OneDrive\Documents\Visual Studio\EcoStore.Datos\obj\Debug\net10.0\EcoStore.Datos.csproj.AssemblyReference.cache
+C:\Users\yhost\OneDrive\Documents\Visual Studio\EcoStore.Datos\obj\Debug\net10.0\EcoStore.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yhost\OneDrive\Documents\Visual Studio\EcoStore.Datos\obj\Debug\net10.0\EcoStore.Datos.AssemblyInfoInputs.cache
+C:\Users\yhost\OneDrive\Documents\Visual Studio\EcoStore.Datos\obj\Debug\net10.0\EcoStore.Datos.AssemblyInfo.cs
+C:\Users\yhost\OneDrive\Documents\Visual Studio\EcoStore.Datos\obj\Debug\net10.0\EcoStore.Datos.csproj.CoreCompileInputs.cache
+C:\Users\yhost\OneDrive\Documents\Visual Studio\EcoStore.Datos\obj\Debug\net10.0\EcoStore.A9B10926.Up2Date
+C:\Users\yhost\OneDrive\Documents\Visual Studio\EcoStore.Datos\obj\Debug\net10.0\EcoStore.Datos.dll
+C:\Users\yhost\OneDrive\Documents\Visual Studio\EcoStore.Datos\obj\Debug\net10.0\refint\EcoStore.Datos.dll
+C:\Users\yhost\OneDrive\Documents\Visual Studio\EcoStore.Datos\obj\Debug\net10.0\EcoStore.Datos.pdb
+C:\Users\yhost\OneDrive\Documents\Visual Studio\EcoStore.Datos\obj\Debug\net10.0\EcoStore.Datos.genruntimeconfig.cache
+C:\Users\yhost\OneDrive\Documents\Visual Studio\EcoStore.Datos\obj\Debug\net10.0\ref\EcoStore.Datos.dll
