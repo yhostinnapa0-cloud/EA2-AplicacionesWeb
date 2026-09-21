@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../EcoStore.Datos/EcoStore.Datos.csproj" Id="5ddbef88-6332-49fe-bb9f-144cacd41c95" />
+  <Project Path="../EcoStore.Entidades/EcoStore.Entidades.csproj" Id="f29996e8-4196-4b30-8826-836f2b637a6b" />
+  <Project Path="../EcoStore.Negocio/EcoStore.Negocio.csproj" Id="2994f6ac-0e95-446f-98ee-e6fd976e36b7" />
+  <Project Path="EcoStore.csproj" />
+</Solution>
