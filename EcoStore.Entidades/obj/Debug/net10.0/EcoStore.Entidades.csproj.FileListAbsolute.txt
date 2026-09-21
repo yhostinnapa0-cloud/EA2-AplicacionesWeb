@@ -1,0 +1,11 @@
+C:\Users\yhost\OneDrive\Documents\Visual Studio\EcoStore.Entidades\bin\Debug\net10.0\EcoStore.Entidades.deps.json
+C:\Users\yhost\OneDrive\Documents\Visual Studio\EcoStore.Entidades\bin\Debug\net10.0\EcoStore.Entidades.dll
+C:\Users\yhost\OneDrive\Documents\Visual Studio\EcoStore.Entidades\bin\Debug\net10.0\EcoStore.Entidades.pdb
+C:\Users\yhost\OneDrive\Documents\Visual Studio\EcoStore.Entidades\obj\Debug\net10.0\EcoStore.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yhost\OneDrive\Documents\Visual Studio\EcoStore.Entidades\obj\Debug\net10.0\EcoStore.Entidades.AssemblyInfoInputs.cache
+C:\Users\yhost\OneDrive\Documents\Visual Studio\EcoStore.Entidades\obj\Debug\net10.0\EcoStore.Entidades.AssemblyInfo.cs
+C:\Users\yhost\OneDrive\Documents\Visual Studio\EcoStore.Entidades\obj\Debug\net10.0\EcoStore.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\yhost\OneDrive\Documents\Visual Studio\EcoStore.Entidades\obj\Debug\net10.0\EcoStore.Entidades.dll
+C:\Users\yhost\OneDrive\Documents\Visual Studio\EcoStore.Entidades\obj\Debug\net10.0\refint\EcoStore.Entidades.dll
+C:\Users\yhost\OneDrive\Documents\Visual Studio\EcoStore.Entidades\obj\Debug\net10.0\EcoStore.Entidades.pdb
+C:\Users\yhost\OneDrive\Documents\Visual Studio\EcoStore.Entidades\obj\Debug\net10.0\ref\EcoStore.Entidades.dll
